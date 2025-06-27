@@ -31,6 +31,10 @@ In this project, I built a relational database in MySQL using historical stock d
 
 ![Img8](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img8.jpg)
 
+# Conclusion
+This project demonstrates how SQL can be effectively used to build a comprehensive relational database for analyzing stock market data. Through careful data validation, exploratory queries, and advanced window functions, I was able to extract meaningful financial insights from Coca-Cola’s historical stock prices. The use of monthly aggregations, daily price variations, trading volume analyses, and ranking techniques provides a robust foundation for understanding market behavior over time.
+
+Moreover, the creation of views leveraging RANK(), LEAD(), and LAG() functions showcases the power of SQL for time series analysis, enabling trend detection and detailed comparative studies between trading days. This work not only highlights the versatility of SQL in financial data analysis but also paves the way for further predictive modeling and visualization efforts.
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
