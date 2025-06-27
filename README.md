@@ -9,9 +9,13 @@ In this project, I built a relational database in MySQL using historical stock d
    
 ![Img2](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img2.jpg)
 
-3. Here I developed a query that calculates the daily variation of Coca-Cola’s stock price, showing both the difference between closing and opening prices and the percentage change relative to the opening price. The results are ordered by date to facilitate analysis of daily fluctuations:
+2. Here I developed a query that calculates the daily variation of Coca-Cola’s stock price, showing both the difference between closing and opening prices and the percentage change relative to the opening price. The results are ordered by date to facilitate analysis of daily fluctuations:
    
 ![Img3](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img3.jpg)
+
+3. This query retrieves the top five days with the highest trading volume for Coca-Cola’s stock, ordering the data in descending order by volume to highlight peak trading activity.
+![Img4](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img4.jpg)
+
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
