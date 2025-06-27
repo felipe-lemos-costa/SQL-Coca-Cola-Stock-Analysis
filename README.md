@@ -27,5 +27,10 @@ In this project, I built a relational database in MySQL using historical stock d
 
 ![Img7](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img7.jpg)
 
+6. And to finalize, this SQL view employs the window functions LAG() and LEAD() to display the previous and next day’s closing prices alongside each date’s closing price. This facilitates the analysis of price trends and fluctuations by enabling direct comparison of consecutive trading days:
+
+![Img8](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img8.jpg)
+
+
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
