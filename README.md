@@ -19,5 +19,10 @@ In this project, I built a relational database in MySQL using historical stock d
 
 ![Img5](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img5.jpg)
 
+4. This SQL view selects all dates and closing prices where the closing price is higher than the overall historical average closing price of Coca-Cola stock. It provides an easy way to identify periods when the stock performed above its long-term average:
+
+![Img6](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img6.jpg)
+
+
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
