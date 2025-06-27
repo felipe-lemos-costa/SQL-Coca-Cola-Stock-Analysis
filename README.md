@@ -23,6 +23,9 @@ In this project, I built a relational database in MySQL using historical stock d
 
 ![Img6](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img6.jpg)
 
+5. This SQL view ranks Coca-Cola’s closing prices from highest to lowest using the RANK() window function. It allows easy identification of the top-performing days based on closing price:
+
+![Img7](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img7.jpg)
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
