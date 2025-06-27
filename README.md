@@ -14,6 +14,7 @@ In this project, I built a relational database in MySQL using historical stock d
 ![Img3](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img3.jpg)
 
 3. This query retrieves the top five days with the highest trading volume for Coca-Cola’s stock, ordering the data in descending order by volume to highlight peak trading activity.
+
 ![Img4](https://github.com/felipe-lemos-costa//SQL-Coca-Cola-Stock-Analysis/raw/main/images/Img4.jpg)
 
 
